@@ -1,4 +1,5 @@
 1. **Development Experience** - What technologies do you know? What do you like about them?
+
  I am most comfortable with .NET technologies. I developed the front-end and back-end of C# and VB.NET apps using MVC and Webforms
 utilizing .NET Framework for a year and a half. I worked on a couple of console apps, but most of my work was fixing bugs and adding new features to 
 large applications. I worked on a SOAP API as well. I really enjoyed the .NET world, C# is very nice to work with and is quite robust as a language. 
@@ -9,6 +10,7 @@ Javascript.
 and quick way to have a basic, nice website, Wordpress is too opinionated for me. PHP also seems to be a little outdated with its available tooling.
 
  2. **Git Commands** - What are your favorite git commands? Give a simple description for each.
+
  I'm relatively new to git. My full-time position used Microsoft's TFS source control.
 So far I've used the following on a regular basis:
  git clone - clone a git repository
@@ -18,6 +20,7 @@ git commit - adds file changes to my local branch
 git push - pushes changes up to the remote repository
 
  3. **Continuing Education** - How do you learn new things? What interesting projects are you currently working on?
+
  I follow blogs of many good industry professionals in different fields. (David Walsh, Troy Hunt, etc.)
  When I have an idea for an app, I try to learn a new technology while building it. For example, I'm currently working on an app that actively listens
 to a speaker and whenever that speaker references certain material (in this case a Bible verse) the app will retrieve it and display it on the screen.
